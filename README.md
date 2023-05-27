@@ -1,7 +1,7 @@
 - # 👋  Hi, I’m Anshul Dewangan
 - 👀 I’m interested in programming and development.
 - 🌱 I’m currently learning Java , Springboot and Web development
-- 🌱 I've made projects on Backend by using Advance Java, JPA, hibernate and Springboot Framework.
+- 🌱 I've made projects on Backend by using  Java, JPA, hibernate and Springboot Framework.
 - 💞️ I’m looking to collaborate on Backend projects.
 
   Email : anshuldew07@gmail.com  
